@@ -1,2 +1,4 @@
-# plane-classification
-Classify plane from pictures
+# Identify planes from pictures
+
+Classify plane from pictures.
+
